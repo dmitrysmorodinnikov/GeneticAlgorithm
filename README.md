@@ -23,5 +23,5 @@ The 'doc' folder contains 'javadoc' documentation. All the technical details, de
 
 ## Author
 
-* [@d_smorodinnikov](https://twitter.com/d_smorodinnikov") <br/>
-* [Dmitry Smorodinnikov's Blog](https://smorodinnikov.com/)<br/>
+* [@d_smorodinnikov](https://twitter.com/d_smorodinnikov) <br/>
+* [Dmitry Smorodinnikov's Blog](http://smorodinnikov.com/)<br/>
