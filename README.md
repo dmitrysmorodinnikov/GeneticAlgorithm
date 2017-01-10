@@ -1,5 +1,5 @@
 ## GeneticAlgorithm
-The basic implementation of the genetic algorithm written on Java. It simulates the work of Genetic Algorithm by implementing 3 core stages: selection, crossover and mutation. I'm working with Chromosome model which is represented by binary String (i.e 1010101010). A group of chromosomes is called a Population. Population gets changed while going through 3 stages(selection, crossover and mutation) until some chromosome of a population is equal to our goal chromosome. 
+The basic implementation of the genetic algorithm written in Java. It simulates the work of Genetic Algorithm by implementing 3 core stages: selection, crossover and mutation. I'm working with Chromosome model which is represented by binary String (i.e 1010101010). A group of chromosomes is called a Population. Population gets changed while going through 3 stages(selection, crossover and mutation) until some chromosome of a population is equal to our goal chromosome. 
 
 ## How to use Demo
 Demo is interactive. Firstly, you need to enter the goal chromosome' binary code. You're asked to enter a  string of '1' and '0' without spaces. The length of the String should be from 3 to 10 symbols. This constraint can be explained by two reasons:
