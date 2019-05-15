@@ -19,9 +19,3 @@ Then you're asked to choose one of two possible strategies. Enter 1 or 2.
 ## How to use 'doc' folder
 
 The 'doc' folder contains 'javadoc' documentation. All the technical details, design patterns explanation, classes and methods desriptions can be found inside. A perfect way to begin is to run 'index.html' inside 'doc' folder.
-
-
-## Author
-
-* [@d_smorodinnikov](https://twitter.com/d_smorodinnikov) <br/>
-* [Dmitry Smorodinnikov's Blog](http://smorodinnikov.com/)<br/>
